@@ -13,7 +13,7 @@ title: Welcome
 
 <h2 class="clear">Spread the Word</h2>
 
-<p>Share our cause on Twitter, Facebook or via email using the links below, and <a href="http://www.change.org/petitions/save-the-orange-community-garden">sign our petition</a>.</p>
+<p>Share our cause on <a href="http://twitter.com/orangecomgarden">Twitter</a>, <a href="http://www.facebook.com/pages/Orange-Community-Garden/171459366241713">Facebook</a> or via email using the links below, and <a href="http://www.change.org/petitions/save-the-orange-community-garden">sign our petition</a>.</p>
 
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
