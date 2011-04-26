@@ -9,11 +9,11 @@ title: Welcome
 
 <img src="/images/stop.png" alt="Save Our Garden" id="stop-image">
 
-<p class="push-down">The city of Orange wants to shut down the community garden program at the end of 2011.  Help us save our garden by spreading the word to your friends and family and by signing <a href="#">this petition</a> so we can show the city that this program is valued by its community and their family and friends.</p>
+<p class="push-down">The city of Orange wants to shut down the community garden program at the end of 2011.  Help us save our garden by spreading the word to your friends and family and by signing <a href="http://www.change.org/petitions/save-the-orange-community-garden">this petition</a> so we can show the city that this program is valued by its community and their family and friends.</p>
 
 <h2 class="clear">Spread the Word</h2>
 
-<p>Share our cause on Twitter, Facebook or via email using the links below.</p>
+<p>Share our cause on Twitter, Facebook or via email using the links below, and <a href="http://www.change.org/petitions/save-the-orange-community-garden">sign our petition</a>.</p>
 
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
