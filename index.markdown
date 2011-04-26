@@ -3,4 +3,4 @@ layout: default
 title: Welcome
 ---
 
-Coming Soon.
+<p id="slogan">The Orange Community Garden provides a place in our community for people to grow plants, practice sustainability and build strong relationships.</p>
