@@ -74,8 +74,8 @@ h1,h2,h3,h4,h5,h6 { font-weight: bold; }
 html { overflow-y: scroll; }
 
 a:hover, a:active { outline: none; }
-a, a:active, a:visited { color: rgba(70,116,137, 0.75); }
-a:hover { color: rgba(70,116,137, 1); }
+a, a:active, a:visited { color: #36643e; }
+a:hover { text-decoration: none; }
 
 ul, ol { margin-left: 1.8em; }
 ol { list-style-type: decimal; }
@@ -124,13 +124,15 @@ header h1 {
   letter-spacing: 0;
   margin-bottom: 0;
   background: url(/images/logo.png) 0 50% no-repeat;
-  padding: 60px 0 30px 128px;
+  padding: 90px 0 50px 234px;
 }
 
 p {font: 24px/27px 'EBGaramondRegular', Arial, sans-serif;}
 
 h2 {
-  font-size: 1.5em;
+  font: 40px/48px 'EBGaramondRegular', Arial, sans-serif;
+  letter-spacing: 0;
+  margin-bottom: 0.5em;
 }
 
 h3 {
@@ -176,4 +178,22 @@ ul ul {
   border: 5px solid #4C3F36;
   border-left: 0;
   border-right: 0;
+}
+img#stop-image {
+  float: left;
+  padding: 0 20px 20px 0;
+}
+p.push-down {
+  padding-top: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+.addthis_toolbox .at300b {
+  padding-right: 20px;
+}
+#questions {
+  padding-top: 20px;
 }
